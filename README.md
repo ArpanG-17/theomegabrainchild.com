@@ -72,6 +72,7 @@ Upon detecting serious threats, OmegaX Brainchild offers a “Safety Hub” mode
 The tool uses GPS and IP tracking to present nearby safety centers, hospitals, police stations, or helplines.
 
 With a single click, users can call or message trusted support services while sharing their location securely.
+
 6. Firewall Protection
 
 Unsafe links, phishing sites, and trojans are automatically blocked.
